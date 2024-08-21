@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "image": "/img/Postres/1.jpeg",
+      "title": "Tiramisu",
+      "description": "Postre italiano de capas de bizcochos empapados en café, con crema de mascarpone y cacao."
+    },
+    {
+      "id": 2,
+      "image": "/img/Postres/2.jpeg",
+      "title": "Cheesecake",
+      "description": "Tarta de queso cremoso sobre una base de galletas, con un toque de frutas rojas."
+    },
+    {
+      "id": 3,
+      "image": "/img/Postres/3.jpeg",
+      "title": "Brownie",
+      "description": "Delicioso pastel de chocolate con trozos de nueces, con una textura húmeda y densa."
+    },
+    {
+      "id": 4,
+      "image": "/img/Postres/4.jpeg",
+      "title": "Crème Brûlée",
+      "description": "Crema de vainilla con una capa de azúcar caramelizado en la parte superior."
+    },
+    {
+      "id": 5,
+      "image": "/img/Postres/5.jpeg",
+      "title": "Panna Cotta",
+      "description": "Postre italiano a base de crema, con una textura suave y acompañada de un coulis de frutas."
+    },
+    {
+      "id": 6,
+      "image": "/img/Postres/6.jpeg",
+      "title": "Macarons",
+      "description": "Galletas francesas de almendra rellenas de crema, disponibles en diversos sabores."
+    },
+    {
+      "id": 7,
+      "image": "/img/Postres/7.jpeg",
+      "title": "Mousse de Chocolate",
+      "description": "Mousse ligera y cremosa con un intenso sabor a chocolate, decorada con virutas de chocolate."
+    }
+  ]
+  

@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "image": "/img/Bebidas/1.webp",
+      "title": "Cerveza Lager",
+      "description": "Cerveza ligera y refrescante con un sabor suave y crujiente."
+    },
+    {
+      "id": 2,
+      "image": "/img/Bebidas/2.webp",
+      "title": "Vino Tinto",
+      "description": "Vino tinto con cuerpo y notas de frutas rojas, ideal para acompañar carnes."
+    },
+    {
+      "id": 3,
+      "image": "/img/Bebidas/3.webp",
+      "title": "Cóctel Margarita",
+      "description": "Cóctel clásico a base de tequila, triple sec y jugo de limón, servido con sal en el borde del vaso."
+    },
+    {
+      "id": 4,
+      "image": "/img/Bebidas/4.webp",
+      "title": "Whisky Escocés",
+      "description": "Whisky de malta con sabor profundo y complejo, envejecido en barricas de roble."
+    },
+    {
+      "id": 5,
+      "image": "/img/Bebidas/5.webp",
+      "title": "Limonada",
+      "description": "Bebida refrescante hecha con jugo de limón, agua y azúcar, ideal para los días calurosos."
+    },
+    {
+      "id": 6,
+      "image": "/img/Bebidas/6.webp",
+      "title": "Sangría",
+      "description": "Bebida a base de vino tinto, frutas frescas y un toque de brandy, servida fría."
+    },
+    {
+      "id": 7,
+      "image": "/img/Bebidas/7.webp",
+      "title": "Champagne",
+      "description": "Vino espumoso con burbujas finas y un sabor refrescante, perfecto para celebraciones."
+    },
+    {
+      "id": 8,
+      "image": "/img/Bebidas/8.webp",
+      "title": "Cóctel Mojito",
+      "description": "Cóctel refrescante con ron, menta, azúcar y lima, servido con hielo."
+    },
+    {
+      "id": 9,
+      "image": "/img/Bebidas/9.webp",
+      "title": "Vodka",
+      "description": "Destilado claro y neutro con un sabor limpio, ideal para mezclas y cócteles."
+    },
+    {
+      "id": 10,
+      "image": "/img/Bebidas/10.webp",
+      "title": "Cerveza IPA",
+      "description": "Cerveza con un alto contenido de lúpulo, ofreciendo un sabor amargo y aromático."
+    },
+    {
+      "id": 11,
+      "image": "/img/Bebidas/11.webp",
+      "title": "Tequila",
+      "description": "Destilado agave con un sabor distintivo, ideal para cócteles y bebidas margarita."
+    },
+    {
+      "id": 12,
+      "image": "/img/Bebidas/12.webp",
+      "title": "Jugo de Naranja",
+      "description": "Jugo fresco de naranjas, lleno de vitamina C y sabor natural."
+    },
+    {
+      "id": 13,
+      "image": "/img/Bebidas/13.webp",
+      "title": "Cóctel Piña Colada",
+      "description": "Cóctel dulce con ron, crema de coco y jugo de piña, servido con hielo."
+    },
+    {
+      "id": 14,
+      "image": "/img/Bebidas/14.webp",
+      "title": "Gintonic",
+      "description": "Cóctel refrescante con ginebra, tónica y una rodaja de limón."
+    },
+    {
+      "id": 15,
+      "image": "/img/Bebidas/15.webp",
+      "title": "Café Espresso",
+      "description": "Café concentrado con un sabor fuerte y aroma intenso, ideal para comenzar el día."
+    },
+    {
+      "id": 16,
+      "image": "/img/Bebidas/16.webp",
+      "title": "Ron Anejo",
+      "description": "Ron envejecido con notas de vainilla y caramelo, ideal para degustar solo o en cócteles."
+    },
+    {
+      "id": 17,
+      "image": "/img/Bebidas/17.webp",
+      "title": "Cóctel Negroni",
+      "description": "Cóctel clásico con gin, vermut rojo y Campari, servido con una rodaja de naranja."
+    },
+    {
+      "id": 18,
+      "image": "/img/Bebidas/18.webp",
+      "title": "Jugo de Manzana",
+      "description": "Jugo natural de manzana, refrescante y ligeramente dulce."
+    },
+    {
+      "id": 19,
+      "image": "/img/Bebidas/19.webp",
+      "title": "Cóctel Mai Tai",
+      "description": "Cóctel tropical con ron, curaçao y jugo de lima, servido con una rodaja de piña."
+    }
+  ]
+  

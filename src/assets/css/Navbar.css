@@ -1,0 +1,54 @@
+.desktop-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.nav-logo{
+    width: 200px;
+}
+.nav-links{
+    width: 100%;
+    background-color: var(--secondary-color);
+    padding: 20px;
+}
+.nav-ul-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    font-size: 20px;
+    font-weight:600;
+    color: var(--Text-color);
+}
+
+
+/*!hamburger*/
+/*!Animación de opacidad */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes fadeOut {
+    from { opacity: 1; }
+    to { opacity: 0; }
+  }
+  /*!Animación de rotación */
+  @keyframes rotateIn {
+    from { transform: rotate(-90deg); }
+    to { transform: rotate(0deg); }
+  }
+  @keyframes rotateOut {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(90deg); }
+  }
+  .icon {
+    position: absolute;
+    transition: opacity 0.5s, transform 0.5s;
+  }
+  .hide {
+    animation: fadeOut 0.5s forwards, rotateOut 0.5s forwards;
+  }
+  .show {
+    animation: fadeIn 0.5s forwards, rotateIn 0.5s forwards;
+  }

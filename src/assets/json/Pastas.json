@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "image": "/img/Pastas/1.jpeg",
+      "title": "Spaghetti Carbonara",
+      "description": "Espaguetis con una salsa cremosa a base de huevos, queso parmesano y panceta."
+    },
+    {
+      "id": 2,
+      "image": "/img/Pastas/2.jpeg",
+      "title": "Lasagna",
+      "description": "Capas de pasta intercaladas con carne de res, salsa de tomate y queso derretido."
+    },
+    {
+      "id": 3,
+      "image": "/img/Pastas/3.jpeg",
+      "title": "Fettuccine Alfredo",
+      "description": "Fettuccine en una salsa rica y cremosa de mantequilla y queso parmesano."
+    },
+    {
+      "id": 4,
+      "image": "/img/Pastas/4.jpeg",
+      "title": "Penne Arrabbiata",
+      "description": "Penne en una salsa picante de tomate, ajo y guindilla."
+    },
+    {
+      "id": 5,
+      "image": "/img/Pastas/5.jpeg",
+      "title": "Ravioli",
+      "description": "Pasta rellena de queso ricotta y espinacas, servida con salsa de tomate."
+    },
+    {
+      "id": 6,
+      "image": "/img/Pastas/6.jpeg",
+      "title": "Tagliatelle Bolognese",
+      "description": "Tagliatelle en una salsa rica y carnosa con carne de res, tomate y vino tinto."
+    },
+    {
+      "id": 7,
+      "image": "/img/Pastas/7.jpeg",
+      "title": "Gnocchi al Pesto",
+      "description": "Gnocchi suaves y tiernos mezclados con una salsa de albahaca, piñones y queso parmesano."
+    }
+  ]
+  

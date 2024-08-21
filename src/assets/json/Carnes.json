@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "image": "/img/Carnes/1.webp",
+      "title": "Entrecôte",
+      "description": "Corte de carne de res de gran calidad, con una capa de grasa que le da sabor y jugosidad."
+    },
+    {
+      "id": 2,
+      "image": "/img/Carnes/2.webp",
+      "title": "Ribeye",
+      "description": "Corte de carne de res muy tierno y jugoso, ideal para asar a la parrilla."
+    },
+    {
+        "id": 3,
+        "image": "/img/Carnes/3.webp",
+        "title": "Sirloin",
+        "description": "Corte de carne de res con una mezcla de ternura y sabor, ideal para asar o a la parrilla."
+    },
+    {
+        "id": 4,
+      "image": "/img/Carnes/4.webp",
+      "title": "Flank Steak",
+      "description": "Corte de carne magra y fibrosa, excelente para marinar y cocinar a la parrilla."
+    },
+    {
+        "id": 5,
+        "image": "/img/Carnes/5.webp",
+        "title": "Skirt Steak",
+        "description": "Corte de carne del diafragma de la res, muy sabroso y con un sabor profundo."
+    },
+    {
+        "id": 6,
+        "image": "/img/Carnes/6.webp",
+        "title": "Brisket",
+        "description": "Corte de pecho de res, ideal para cocinar lentamente y obtener una carne tierna y jugosa."
+    },
+    {
+      "id": 7,
+      "image": "/img/Carnes/7.webp",
+      "title": "Cross Rib Roast",
+      "description": "Corte de carne de res con una buena mezcla de grasa y músculo, perfecto para asar."
+    },
+    {
+        "id": 8,
+        "image": "/img/Carnes/8.webp",
+      "title": "Tri-Tip",
+      "description": "Corte de carne de res del final del lomo, conocido por su sabor y textura única."
+    },
+    {
+        "id": 9,
+        "image": "/img/Carnes/9.webp",
+        "title": "Chuleta de Ternera",
+        "description": "Corte de carne de ternera, tierno y suave, ideal para cocinar a la parrilla o al horno."
+    },
+    {
+      "id": 10,
+      "image": "/img/Carnes/10.webp",
+      "title": "Filete Mignon",
+      "description": "El corte más tierno del lomo de res, perfecto para una cena elegante."
+    },
+    {
+      "id": 11,
+      "image": "/img/Carnes/11.webp",
+      "title": "Rabo de Buey",
+      "description": "Corte de carne del rabo del buey, ideal para guisos y platos cocinados lentamente."
+    },
+    {
+      "id": 12,
+      "image": "/img/Carnes/12.webp",
+      "title": "Chuleta de Cordero",
+      "description": "Corte de carne de cordero, tierno y sabroso, ideal para cocinar a la parrilla o al horno."
+    },
+    {
+      "id": 13,
+      "image": "/img/Carnes/13.webp",
+      "title": "Codillo de Cordero",
+      "description": "Corte de carne de cordero de la parte inferior de la pata, perfecto para estofados."
+    },
+    {
+      "id": 14,
+      "image": "/img/Carnes/13.webp",
+      "title": "Panceta de Cerdo",
+      "description": "Corte de carne de cerdo con una capa de grasa, ideal para asar o preparar tocino."
+    }
+  ]
+  
