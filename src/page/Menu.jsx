@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import Navbar from "../components/Navbar";
 import Header from "../components/Header";
-import Footer from "../components/Footer";
 import HeroMenu from "../components/HeroMenu";
 import carnesData from '../assets/json/Carnes.json';
 import bebidasData from '../assets/json/Bebidas.json'
