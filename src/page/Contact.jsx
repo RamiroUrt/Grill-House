@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar"
 
 import Header from "../components/Header"
-import HeroContact from "../components/heroContact"
+import HeroContact from "../components/HeroContact"
 
 const Contact = () => {
   return (
