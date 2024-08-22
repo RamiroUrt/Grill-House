@@ -14,7 +14,7 @@ const Header = ({ backgroundClass, onButtonClick }) => {
         <div className="buttons-header flex flex-wrap justify-center">
           {currentPath === '/' && (
             <>
-              <Button text="Menu" link="/Menu" />
+              <Button text="Menú" link="/Menu" />
               <Button text="Contacto" link={'/Contacto'} />
             </>
           )}
