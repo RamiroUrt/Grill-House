@@ -1,8 +1,25 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Grill House
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm install - instalar dependencias
+
+npm run buil - para levantar el proyecto o ir a su url grill-house-three.vercel.app
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install 
+  instalar 
+  dependecias del proyecto
+  npm run dev 
+  iniciar el proyecto en el puerto localhost:5173
+```
+    
+## Features
+
+- React Router Dom
+- React Parallax
+
+
