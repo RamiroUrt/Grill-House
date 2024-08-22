@@ -8,7 +8,7 @@ const Feedback = () => {
   <div className="text-wrapper">
     <p className="text-primary">Por favor dinos tu experiencia</p>
     <p className="text-secondary">tu comentario nos ayuda a mejorar</p>
-    <h1 className='titlle'>Grill House</h1>
+    <h1 className='titlle text-center'>Grill House</h1>
   </div>
 
   <div className="rating-stars-container">
