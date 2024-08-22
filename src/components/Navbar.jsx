@@ -31,7 +31,7 @@ const Navbar = () => {
             <div className="nav-links">
                 <ul className="nav-ul-box">
                     <li><Link to='/'>Inicio</Link></li>
-                    <li><Link to='/Menu'>Menu</Link></li>
+                    <li><Link to='/Menu'>Menú</Link></li>
                     <li><Link to='/contacto'>Contacto</Link></li>
                 </ul>
             </div>
@@ -53,7 +53,7 @@ const Navbar = () => {
             <div className="nav-links">
                 <ul className="nav-ul-box">
                     <li><Link to='/' onClick={closeMenu}>Inicio</Link></li>
-                    <li><Link to='/Menu' onClick={closeMenu}>Menu</Link></li>
+                    <li><Link to='/Menu' onClick={closeMenu}>Menú</Link></li>
                     <li><Link to='/contacto' onClick={closeMenu}>Contanto</Link></li>
                 </ul>
             </div>
