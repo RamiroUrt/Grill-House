@@ -43,6 +43,7 @@
     justify-content: center;
   }
   .star-label svg {
+    cursor:pointer;
     fill: rgb(210, 210, 210);
     width: 40px;
     height: auto;
