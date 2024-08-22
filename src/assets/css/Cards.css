@@ -53,7 +53,8 @@
 }
 
 
-.tarjeta:hover {
+.tarjeta:hover,
+.button-bg:hover {
   transform: translateY(-10px);
   transition: transform 0.3s ease;
 }
