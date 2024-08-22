@@ -79,7 +79,7 @@ header{
   background-image: url('../public/img/header/Bg-postres.jpg');
 }
 .background-default{
-  background-image: url('img/header/Bg-menu.jpg');
+  background-image: url('/img/header/Bg-menu.jpg');
 }
 
 .buttons-header{
